@@ -1,3 +1,4 @@
+# CODSOFT
 # Titanic Survival Prediction Project
 
 ## Overview
@@ -18,4 +19,3 @@ This project aims to predict the survival of passengers on the Titanic using mac
 4. **Explore Visualizations:** Review the generated visualizations to gain insights into the dataset and the factors influencing survival.
 5. **Model Evaluation:** Examine the classification reports and cross-validation scores to understand the performance of each machine learning model.
 
-# CODSOFT
