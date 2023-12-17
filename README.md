@@ -1,3 +1,3 @@
-# CODSOFT_DS
+# CODSOFT
 **CODSOFT** internship projects
 
